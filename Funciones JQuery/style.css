@@ -1,0 +1,45 @@
+*{
+    outline: 1px solid pink;
+    box-sizing: border-box;
+}
+.container{
+    padding: 0.5rem;
+    width: 970px;
+    margin: 0 auto;
+}
+.slideup-slidedown .paragraph-slidedown{
+    margin-top: 1rem;
+background-color: aqua;
+display: none;
+}
+/* ----------------------------------------------------------------------------------------------- */
+.fadein-fadeout{
+    padding: 1rem;
+    color: white;
+}
+.fadein-fadeout .fadein{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    text-align: center;
+    display: none;
+}
+.fadein-fadeout .fadeout{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    text-align: center;
+}
+.fadein-fadeout .block{
+    margin: 1rem 0;
+    display: block;
+}
+/* ----------------------------------------------------------------------------------------------- */
+
+.addclass{
+    color: blue;
+}
+.intro{
+    color: red;
+    font-size: large
+}

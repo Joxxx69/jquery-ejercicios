@@ -1,0 +1,14 @@
+*{
+    outline: 1px solid pink;
+}
+.container{
+    margin: 0 auto;
+    width: 970px;
+    text-align: center;
+    padding: 1rem;
+}
+.ninja{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}

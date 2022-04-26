@@ -1,0 +1,21 @@
+*{
+    outline: 1px solid pink;
+}
+.container{
+    padding: 1rem;
+    width: 970px;
+    margin: 0 auto;
+}
+.row-1{
+    width: auto;
+}
+.row-2{
+    width: auto;
+}
+.reptar{
+    margin: 1rem 1.9rem;
+    width: 11rem;
+    height: 11rem;
+    border: 1px solid black;
+}
+

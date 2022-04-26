@@ -1,0 +1,29 @@
+*{
+    outline: 1px solid pink;
+}
+.container{
+    padding: 1rem;
+    width: 970px;
+    margin: 0 auto;
+}
+.row-1{
+width: auto;
+}
+.row-2{
+    width: auto;
+}
+.reptar{
+    margin: 1rem 1.9rem;
+    width: 11rem;
+    height: 11rem;
+    border: 1px solid black;
+}
+
+.btn-restore{
+    color: white;  
+    font-weight:bold;
+    font-size: large;
+    width: 100px;
+    padding: 0.5rem 1rem;
+    background-color: #009c0f;
+}
